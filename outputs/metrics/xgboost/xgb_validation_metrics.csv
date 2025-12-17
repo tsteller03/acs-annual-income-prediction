@@ -1,0 +1,2 @@
+model,rmse_log,mae_log,nrounds
+xgboost,0.8933968783892637,0.6368468197987505,200

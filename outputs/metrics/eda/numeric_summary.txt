@@ -1,0 +1,8 @@
+     HINCP           HINCP_log           AGEP             NP              VEH       
+ Min.   :      0   Min.   : 2.996   Min.   : 0.00   Min.   : 1.000   Min.   :0.000  
+ 1st Qu.:  45000   1st Qu.:10.728   1st Qu.:22.00   1st Qu.: 2.000   1st Qu.:1.000  
+ Median :  82600   Median :11.327   Median :43.00   Median : 3.000   Median :2.000  
+ Mean   : 110505   Mean   :11.223   Mean   :42.04   Mean   : 3.254   Mean   :2.179  
+ 3rd Qu.: 138175   3rd Qu.:11.842   3rd Qu.:62.00   3rd Qu.: 4.000   3rd Qu.:3.000  
+ Max.   :1584000   Max.   :14.275   Max.   :95.00   Max.   :20.000   Max.   :6.000  
+                   NA's   :95                                                       

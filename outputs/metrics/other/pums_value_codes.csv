@@ -1,0 +1,40 @@
+var_code,val_min,val_max,val_label
+DIS,1,1,With a disability
+DIS,2,2,Without a disability
+ESR,1,1,"Civilian employed, at work"
+ESR,2,2,"Civilian employed, with a job but not at work"
+ESR,3,3,Unemployed
+ESR,4,4,"Armed forces, at work"
+ESR,5,5,"Armed forces, with a job but not at work"
+ESR,6,6,Not in labor force
+ESR,b,b,N/A (less than 16 years old)
+SCHL,01,01,No schooling completed
+SCHL,02,02,"Nursery school, preschool"
+SCHL,03,03,Kindergarten
+SCHL,04,04,Grade 1
+SCHL,05,05,Grade 2
+SCHL,06,06,Grade 3
+SCHL,07,07,Grade 4
+SCHL,08,08,Grade 5
+SCHL,09,09,Grade 6
+SCHL,10,10,Grade 7
+SCHL,11,11,Grade 8
+SCHL,12,12,Grade 9
+SCHL,13,13,Grade 10
+SCHL,14,14,Grade 11
+SCHL,15,15,12th grade - no diploma
+SCHL,16,16,Regular high school diploma
+SCHL,17,17,GED or alternative credential
+SCHL,18,18,"Some college, but less than 1 year"
+SCHL,19,19,"1 or more years of college credit, no degree"
+SCHL,20,20,Associate's degree
+SCHL,21,21,Bachelor's degree
+SCHL,22,22,Master's degree
+SCHL,23,23,Professional degree beyond a bachelor's degree
+SCHL,24,24,Doctorate degree
+SCHL,bb,bb,N/A (less than 3 years old)
+TEN,1,1,Owned with mortgage or loan (include home equity loans)
+TEN,2,2,Owned free and clear
+TEN,3,3,Rented
+TEN,4,4,Occupied without payment of rent
+TEN,b,b,N/A (GQ/vacant)

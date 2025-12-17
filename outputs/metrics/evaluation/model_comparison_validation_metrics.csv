@@ -1,0 +1,6 @@
+model,rmse_log,mae_log,nrounds
+random_forest,0.850182181,0.592891767,NA
+full_linear_model,0.852804927,0.607596501,NA
+lasso,0.853791409,0.607771908,NA
+basic_linear_model,0.866368846,0.616980571,NA
+xgboost,0.893396878,0.63684682,200
